@@ -38153,7 +38153,7 @@ $0:function(){this.a.x=!1},
 $S:2}
 D.a75.prototype={
 $2:function(a,b){var s=null,r=U.VR("https://i.imgur.com/HSDxWfn.jpg",C.fG,C.iZ,!1,1/0),q=G.akl(M.dX(s,s,s,s,s,s,s,s,s)),p=P.ab(128,0,0,0),o=t.Ma
-p=T.mT(C.bf,H.c([r,q,M.m5(C.a_,s,new T.cF(C.pA,T.GE(H.c([U.VR("https://i.imgur.com/au7mpJy.png",C.fG,s,!1,s),T.Ct(H.c([new T.cF(C.jD,L.f0("Cute List",s,s,s,K.aw(a).S.a.L9(64),s,s),s),new T.cF(C.jD,L.f0("maintained by snowstormcs.",s,s,s,K.aw(a).S.a.L9(24),s,s),s)],o),C.c1,C.aT,C.bK)],o),C.c1,C.aT,C.bK),s),C.M,p,0,s,s,s,s,C.ba)],o),C.bq)
+p=T.mT(C.bf,H.c([r,q,M.m5(C.a_,s,new T.cF(C.pA,T.GE(H.c([U.VR("https://i.imgur.com/au7mpJy.png",C.fG,s,!1,s),T.Ct(H.c([new T.cF(C.jD,L.f0("Cute List",s,s,s,K.aw(a).S.a.L9(64),s,s),s),new T.cF(C.jD,L.f0("maintained by snowstormcs. (Last updated 2/24/2023)",s,s,s,K.aw(a).S.a.L9(24),s,s),s)],o),C.c1,C.aT,C.bK)],o),C.c1,C.aT,C.bK),s),C.M,p,0,s,s,s,s,C.ba)],o),C.bq)
 q=this.a
 return H.c([new E.wI(new Z.tV(T.GE(H.c([U.avj(new T.cF(C.ao,T.GE(H.c([new T.cF(C.jC,L.VP(C.pY),s),L.f0("Channel Search",s,s,s,s,s,s)],o),C.bh,C.aT,C.bK),s),new D.a6Z(a),s),T.ado(M.dX(s,s,s,s,s,0,s,s,s)),M.dX(s,Z.ak2(q.e,L.adM(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,!0,s,s,s,s,!0,s,s,s,s,s,"Search",s,s,s,!1,s,s,s,s,L.VP(C.jN),s,s,s,s,s,s,s,s,s),new D.a7_(q)),s,s,s,s,s,s,384)],o),C.bh,C.kx,C.bK),p,!0,C.ao,s),0,256,!1,!0,s)],o)},
 $C:"$2",
